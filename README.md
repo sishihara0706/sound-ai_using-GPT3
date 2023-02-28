@@ -1,0 +1,3 @@
+GPT-3のAPIを使って音声ベースのAIを作っています。
+pyaudio、speech_recognition、pyttsx3などのモジュールを使用しています。
+開発中です。
