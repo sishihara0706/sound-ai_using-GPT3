@@ -2,7 +2,7 @@ import os
 import openai
 
 import requests
-DEEP_API_KEY = "2623e71c-bfb8-96f3-5887-e6dfac65b40d:fx"
+DEEP_API_KEY = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 
 
 def trans_E2J(source):
