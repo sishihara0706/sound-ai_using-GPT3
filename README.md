@@ -4,3 +4,4 @@ pyaudio、speech_recognition、pyttsx3などのモジュールを使用してい
 開発中です。
 
 使用する場合は、各種モジュールをインストールしてください。
+APIを使用するには、openaiで登録する必要があります。
