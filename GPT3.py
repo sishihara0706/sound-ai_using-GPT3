@@ -2,9 +2,9 @@ import os
 import openai
 from functions import trans_E2J, trans_J2E
 import requests
-DEEP_API_KEY = "2623e71c-bfb8-96f3-5887-e6dfac65b40d:fx"
+DEEP_API_KEY = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 
-API_KEY = "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"
+API_KEY = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 openai.api_key = API_KEY
 
 question = "明日の献立"
