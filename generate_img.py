@@ -19,7 +19,7 @@ def download_file(url, dst_path):
         print(e)
 
 
-API_KEY = "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"
+API_KEY = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 openai.api_key = API_KEY
 prompt = input("画像を生成します。テーマを適当に入力してください。（例）「京都の街並み」>>")
 en_prompt = trans_J2E(prompt).replace(" ","-")
